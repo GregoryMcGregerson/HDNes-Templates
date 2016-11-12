@@ -1,0 +1,93 @@
+<mp3>TitleScreen.ogg
+<mp3>Overworld (with intro).ogg
+<mp3>Overworld.ogg
+<mp3>Battle.ogg
+<mp3>Levelup.ogg
+<mp3>Village (with intro).ogg
+<mp3>Village.ogg
+<mp3>Indoors.ogg
+<mp3>Death.ogg
+<mp3>Desert Palace theme (with intro).ogg
+<mp3>Desert Palace theme.ogg
+<mp3>Desert Palace (boss).ogg
+<mp3>Desert Palace (cleared).ogg
+<mp3>Swamp Palace theme (with intro).ogg
+<mp3>Swamp Palace theme.ogg
+<mp3>Swamp Palace (boss).ogg
+<mp3>Swamp Palace (cleared).ogg
+<mp3>Island Palace theme (with intro).ogg
+<mp3>Island Palace theme.ogg
+<mp3>Island Palace (boss).ogg
+<mp3>Island Palace (cleared).ogg
+<mp3>Maze Palace theme (with intro).ogg
+<mp3>Maze Palace theme.ogg
+<mp3>Maze Palace (boss).ogg
+<mp3>Maze Palace (cleared).ogg
+<mp3>Ocean Palace theme (with intro).ogg
+<mp3>Ocean Palace theme.ogg
+<mp3>Ocean Palace (boss).ogg
+<mp3>Ocean Palace (cleared).ogg
+<mp3>Hidden Palace theme (with intro).ogg
+<mp3>Hidden Palace theme.ogg
+<mp3>Hidden Palace (boss).ogg
+<mp3>Hidden Palace (cleared).ogg
+<mp3>Great Palace theme (with intro).ogg
+<mp3>Great Palace theme.ogg
+<mp3>Great Palace (boss).ogg
+<mp3>Great Palace (cleared).ogg
+<mp3>Shadow Link.ogg
+<mp3>Zelda saved.ogg
+<mp3>Credits.ogg
+<mp3>Overworld - Eastern Hyrule.ogg
+<mp3>Battle - Eastern Hyrule.ogg
+<music>0,7fb,Y,0,N,0,1,-1,,Y,
+<music>1,7fb,Y,1,N,0,0,1,A76e==$2,Y,
+<music>2,7fb,Y,2,N,0,0,2,A76e==$2,Y,
+<music>4,7fb,Y,4,N,77,0,3,A76e==$2,Y,
+<music>10,7fb,Y,10,Y,4,2,4,A7fb!=$0,N,
+<music>11,7fb,Y,1,N,77,0,5,A76e==$6,Y,
+<music>12,7fb,Y,2,N,77,0,6,A76e==$6,Y,
+<music>18,7fb,Y,8,N,77,0,7,A76e==$6,Y,
+<music>21,7fb,Y,1,N,0,0,9,A76e==$8,Y,
+<music>22,7fb,Y,2,N,77,0,10,A76e==$8,Y,
+<music>28,7fb,Y,8,N,77,0,11,A76e==$8,Y,
+<music>40,7fb,Y,40,Y,0,2,12,A76e==$8,N,
+<music>42,7fb,Y,2,N,77,0,40,A76e==$4,Y,
+<music>44,7fb,Y,4,N,77,0,41,A76e==$4,Y,
+<music>51,7fb,Y,1,N,77,0,13,A76e==$a,Y,
+<music>52,7fb,Y,2,N,77,0,14,A76e==$a,Y,
+<music>54,7fb,Y,40,Y,0,2,16,A76e==$a,N,
+<music>58,7fb,Y,8,N,77,0,15,A76e==$a,Y,
+<music>61,7fb,Y,1,N,77,0,17,A76e==$12,Y,
+<music>62,7fb,Y,2,N,77,0,18,A76e==$12,Y,
+<music>64,7fb,Y,40,Y,0,2,20,A76e==$12,N,
+<music>68,7fb,Y,8,N,6f,0,19,A76e==$12,Y,
+<music>71,7fb,Y,1,N,77,0,21,A76e==$14,Y,
+<music>72,7fb,Y,2,N,77,0,22,A76e==$14,Y,
+<music>74,7fb,Y,40,Y,0,2,24,A76e==$14,N,
+<music>78,7fb,Y,8,N,6f,0,23,A76e==$14,Y,
+<music>81,7fb,Y,1,N,0,0,25,A76e==$16,Y,
+<music>82,7fb,Y,2,N,77,0,26,A76e==$16,Y,
+<music>84,7fb,Y,40,Y,0,2,28,A76e==$16,N,
+<music>88,7fb,Y,8,N,6f,0,27,A76e==$16,Y,
+<music>91,7fb,Y,1,N,77,0,29,A76e==$18,Y,
+<music>92,7fb,Y,2,N,77,0,30,A76e==$18,Y,
+<music>94,7fb,Y,40,Y,0,2,32,A76e==$18,N,
+<music>98,7fb,Y,8,N,77,0,31,A76e==$18,Y,
+<music>101,7fb,Y,1,N,0,0,33,A76e==$c,Y,
+<music>102,7fb,Y,2,N,0,0,34,A76e==$c,Y,
+<music>104,7fb,Y,40,Y,0,0,36,A76e==$c,N,
+<music>108,7fb,Y,8,N,dc,0,35,A76e==$c,Y,
+<music>110,7fb,Y,4,N,6f,0,38,A76e==$c,Y,
+<music>120,7fb,Y,0,N,77,0,37,A76e==$c,Y,
+<music>130,7fb,Y,20,N,77,0,36,A76e==$c,Y,
+<music>134,7fb,Y,4,N,6f,0,38,A76e==$e,Y,
+<music>138,7fb,Y,8,N,6f,0,39,A76e==$e,Y,
+<music>150,7fb,Y,10,Y,0,2,4,A74e!=$0;A74e!=$1;A74e!=$2;A74e!=$3,N,
+<music>232,7e2,N,0,Y,0,0,-2,,N,
+<music>233,7e3,N,0,Y,0,0,-2,,N,
+<music>234,7e4,N,0,Y,0,0,-2,,N,
+<music>235,7e5,N,b4,Y,0,0,-2,,N,
+<music>236,7e6,N,b4,Y,0,0,-2,,N,
+<music>237,7e7,N,b4,Y,0,0,-2,,N,
+<music>244,774,N,0,Y,7f,3,-2,,N,
